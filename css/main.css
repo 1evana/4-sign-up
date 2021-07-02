@@ -8,13 +8,13 @@ body {
 }
 
 .left-column {
-  width: 40%;
   float: left;
+  width: 40%;
   background-color: aliceblue;
 }
 
 .right-column {
-  width: 60%;
   float: left;
+  width: 60%;
   background-color: brown;
 }
