@@ -17,9 +17,3 @@ body {
   float: left;
   background-color: violet;
 }
-
-.button {
-  display: inline-block;
-  background-color: red;
-  padding: 20px;
-}
