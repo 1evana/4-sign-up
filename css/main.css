@@ -1,5 +1,4 @@
 body {
-
 }
 
 .container {
@@ -8,13 +7,19 @@ body {
 }
 
 .left-column {
-  float: left;
   width: 40%;
-  background-color: aliceblue;
+  float: left;
+  background-color: yellow;
 }
 
 .right-column {
-  float: left;
   width: 60%;
-  background-color: brown;
+  float: left;
+  background-color: violet;
+}
+
+.button {
+  display: inline-block;
+  background-color: red;
+  padding: 20px;
 }
