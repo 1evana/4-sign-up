@@ -16,7 +16,7 @@ form > .form-row > label {
   display: inline-block;
   width: 100%;
   margin-bottom: 5px;
-  font-size: 17px;
+  font-size: 15px;
   color: #777;
   text-transform: uppercase;
 }
@@ -45,7 +45,18 @@ form > .form-row > button {
 }
 
 form > .form-row > span {
+  display: inline-block;
+  line-height: 26px;
+  padding: 5px;
+  margin-left: 5px;
 }
 
 form > .form-row > a {
+  display: inline-block;
+  line-height: 26px;
+  padding: 5px;
+  text-decoration: none;
+  color: #2348d4;
+  font-weight: bold;
+  font-size: 17px;
 }
