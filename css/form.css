@@ -8,6 +8,7 @@ form > .form-row {
   width: 100%;
   margin-bottom: 30px;
 }
+
 form > .form-row:last-of-type {
   margin-bottom: 0;
 }
@@ -29,10 +30,11 @@ form > .form-row > input {
   border: none;
   border-bottom: 1px solid #ccc;
 }
+
 form > .form-row > input:focus-visible {
   outline: 2px solid #777;
-  
 }
+
 ::placeholder {
   font-style: italic;
   color: #777;
@@ -51,6 +53,7 @@ form > .form-row > button {
   color: #fff;
   border: none;
 }
+
 form > .form-row > button:hover {
   cursor: pointer;
   background: #0265de;
