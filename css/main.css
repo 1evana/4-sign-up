@@ -1,5 +1,5 @@
 body {
-  background-color: #74C4D9;
+  background-color: #44b2c8;
 }
 
 .container {
@@ -14,20 +14,29 @@ body {
   float: left;
   padding: 40px;
   padding-bottom: 20px;
-  background-color: #4836A9;
-  color: white;
+  background-color: #3f52b2;
+  background-image: url(../img/hill.jpg);
+  background-size: cover;
+  background-position: center;
+  color: #fff;
 }
 
- h1 {
- }
+h1 {
+}
 
-a{
-  color: white;
+.bottom-texts {
+}
+
+.bottom-texts > a {
+  color: #fff;
 }
 
 .right-column {
   width: 60%;
   float: left;
   padding: 60px;
-  background-color: #FFFFFF;
+  background-color: #fff;
+}
+
+.close {
 }
